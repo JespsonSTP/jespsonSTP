@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...Python, Javascript, Php app
-- 🌱 I’m currently learning ...Java(Spring framwork)
+- 🔭 I’m currently working on ...Java,Python, Javascript projects
+- 🌱 I’m currently learning ...Cloud technologies
 - 👯 I’m looking to collaborate on ...anythin intersting really
 - 🤔 I’m looking for help with ...Embedded Systems lol
 - 💬 Ask me about ...Anything
